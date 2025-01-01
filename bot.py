@@ -26,8 +26,8 @@ congratulated_users = set()
 
 # Konfiguration
 BOT_USERNAME = "ty7v"  # Twitch-Benutzername des Bots
-ACCESS_TOKEN = "oauth:e0efuthvw3i31w7udvmtgoxrm9rp4p"  # OAuth Access Token
-CLIENT_ID = "gx2tsujkotmqnk2urv1sxqdx1ty3u7"  # Twitch Client-ID
+ACCESS_TOKEN = "oauth:"  # OAuth Access Token
+CLIENT_ID = ""  # Twitch Client-ID
 CHANNELS_FILE = "channels.db"  # Datei für gespeicherte Kanäle
 
 
